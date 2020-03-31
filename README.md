@@ -5,7 +5,7 @@ This notebook creates a graph using the networkx library.  The nodes of the grap
 
 The first thing to check is whether the results of this simulation match with other models.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png" width="300" height="200"> <img src="https://github.com/mkspillane/Infection/blob/master/images/Log_Growth.png" width="300" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png" width="300" height="200"> <img src="https://github.com/mkspillane/Infection/blob/master/images/Normal.png" width="300" height="200">
 
 The results of a standard model (left) and my model (right) look similar.  
 
