@@ -7,4 +7,4 @@ The first thing to check is whether the results of this simulation match with ot
 
 
 ![Wolfram SIR model: http://www.pandemsim.com/beta/images/SIRmodel.png](http://www.pandemsim.com/beta/images/SIRmodel.png)
-![My model.](https://github.com/mkspillane/Users/michaelspillane/Infection/images/Normal.png)
+![My model.](https://github.com/mkspillane/Infection/blob/master/images/Normal.png)
