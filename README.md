@@ -6,10 +6,8 @@ This notebook creates a graph using the networkx library.  The nodes of the grap
 The first thing to check is whether the results of this simulation match with other models.
 
 
-![Image1](https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png){:height="75%" width="75%"}
+The results of a standard model (left) and my model (right) look similar.  A second simple sanity check is to make sure that the infection spreads exponentially early on in the model.  For this we can look at a log plot of the cases compared with an exponential plot.  
 
-Standard SIR model using differential equations.
+<img src="https://github.com/mkspillane/Infection/blob/master/images/Log_Growth.png" width="300" height="200">
 
-![Image2](https://github.com/mkspillane/Infection/blob/master/images/Normal.png)
-
-Results from a run of this model.
+This is a semi-log plot so exponential growth becomes a straight line.  The blue is the model and the yellow is an exponential function.
