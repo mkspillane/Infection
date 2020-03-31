@@ -6,5 +6,5 @@ This notebook creates a graph using the networkx library.  The nodes of the grap
 The first thing to check is whether the results of this simulation match with other models.
 
 
-![Image1](https://en.wikiversity.org/wiki/File:Sirsys-p9.png)
-![Image2](https://github.com/mkspillane/Infection/blob/master/images/Normal.png)
+![Image1](https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png)
+![Image2](https://github.com/mkspillanepng/Infection/blob/master/images/Normal.png)
