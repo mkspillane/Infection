@@ -5,10 +5,13 @@ This notebook creates a graph using the networkx library.  The nodes of the grap
 
 The first thing to check is whether the results of this simulation match with other models.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png" width="300" height="200"> <img src="https://github.com/mkspillane/Infection/blob/master/images/Log_Growth.png" width="300" height="200">
+The results of a standard model (left) and my model (right) look similar.  
 
-The results of a standard model (left) and my model (right) look similar.  A second simple sanity check is to make sure that the infection spreads exponentially early on in the model.  For this we can look at a log plot of the cases compared with an exponential plot.  
+A second simple sanity check is to make sure that the infection spreads exponentially early on in the model.  For this we can look at a log plot of the cases compared with an exponential plot.  
 
 <img src="https://github.com/mkspillane/Infection/blob/master/images/Log_Growth.png" width="300" height="200">
 
 This is a semi-log plot so exponential growth becomes a straight line.  The blue is the model and the yellow is an exponential function.
- 
+
+
