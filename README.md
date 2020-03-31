@@ -6,5 +6,5 @@ This notebook creates a graph using the networkx library.  The nodes of the grap
 The first thing to check is whether the results of this simulation match with other models.
 
 
-![Wolfram SIR model: http://www.pandemsim.com/beta/images/SIRmodel.png](http://www.pandemsim.com/beta/images/SIRmodel.png)
-![My model.](https://github.com/mkspillane/Infection/blob/master/images/Normal.png)
+![Image1](https://en.wikiversity.org/wiki/File:Sirsys-p9.png)
+![Image2](https://github.com/mkspillane/Infection/blob/master/images/Normal.png)
