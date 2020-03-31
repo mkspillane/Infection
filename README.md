@@ -17,7 +17,7 @@ This is a semi-log plot so exponential growth becomes a straight line.  The blue
 
 With those sanity checks perform we can test out other features.  For example, we can see how social distancing flattens the curve. To test this we run two identical simulations. In the first nodes (people) continue to behave as normal ignoring the infection.  In the second after 1% of the population has become infected nodes interact with fewer nodes each time step. 
 
-<img src="https://github.com/mkspillane/Infection/blob/master/images/social_distancing.png" width="300" height="200">
+<img src="https://github.com/mkspillane/Infection/blob/master/images/social_distancing.png" width="450" height="200">
 The dashed lines represent the same variables with the social distancing implemented.
 
 Another feature that we can play with is the infection rate.  For some infections the rate varies with the external temperature.  This can lead to a resurgence in the infection as the weather starts to cool again.
