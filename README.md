@@ -7,5 +7,7 @@ The first thing to check is whether the results of this simulation match with ot
 
 
 ![Image1](https://upload.wikimedia.org/wikipedia/commons/3/32/Sirsys-p9.png)
+Standard SIR model using differential equations.
 
 ![Image2](https://github.com/mkspillanepng/Infection/blob/master/images/Normal.png)
+Results from a run of this model.
