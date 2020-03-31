@@ -6,6 +6,4 @@ You can create a network and then alter various parameters and observe how that 
 You can also set up alterations to those parameters during the simulation to represent social programs.
 
 
-![alt text](https://github.com/mkspillane/Users/michaelspillane/Infection/images/Log_Growth.png)
-
- 
+![alt text](https://github.com/mkspillane/Infection/blob/master/images/Log_Growth.png)
