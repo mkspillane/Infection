@@ -23,10 +23,15 @@ The dashed lines represent the same variables with moderate social distancing im
 Another option is quarantining symptomatic people.  Here we run 3 simulations where people with mild symptoms are progressively more likely to self-quarintine.  
 <img src="https://github.com/mkspillane/Infection/blob/master/images/symp_quar.png" width="450" height="200">
 
-We can see that this is much less successful that having the whole population decrease interactions.
+We can see that this is much less successful than having the whole population decrease interactions.
 
 Another feature that we can play with is the infection rate.  For some infections the rate varies with the external temperature.  This can lead to a resurgence in the infection as the weather starts to cool again.
 
 <img src="https://github.com/mkspillane/Infection/blob/master/images/Resurgence.png" width="300" height="200">
 
 
+#  SIR_ODE_model
+
+This is just a traditional ODE model for SIR.  The notebook demonstrates resurgence.
+
+<img src="https://github.com/mkspillane/Infection/blob/master/images/ODE_resurgence.png" width="300" height="200">
