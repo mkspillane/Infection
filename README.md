@@ -25,6 +25,10 @@ Another option is quarantining symptomatic people.  Here we run 3 simulations wh
 
 We can see that this is much less successful than having the whole population decrease interactions.
 
+We can also see how testing affects the spread of the disease.  In these 3 runs we implemented no random testing, testing 2% of the population each day and 4% of the population each day.  It appears that random testing even at fairly high levels does not do much on its own to prevent the spread.
+
+<img src="https://github.com/mkspillane/Infection/blob/master/images/random_testing.png" width="450" height="200">
+
 Another feature that we can play with is the infection rate.  For some infections the rate varies with the external temperature.  This can lead to a resurgence in the infection as the weather starts to cool again.
 
 <img src="https://github.com/mkspillane/Infection/blob/master/images/Resurgence.png" width="300" height="200">
